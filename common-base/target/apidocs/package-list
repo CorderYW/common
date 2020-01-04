@@ -1,1 +1,8 @@
-com.yewei.utils
+com.yewei.common.constant
+com.yewei.common.db.req
+com.yewei.common.enums
+com.yewei.common.error
+com.yewei.common.handler
+com.yewei.common.helper
+com.yewei.common.model.api
+com.yewei.common.utils
