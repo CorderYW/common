@@ -26,7 +26,7 @@
         <build-helper-maven-plugin.version>3.0.0</build-helper-maven-plugin.version>
         <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
-        <mysql.connect.version>6.0.6</mysql.connect.version>
+        <mysql.connect.version>8.0.16</mysql.connect.version>
     </properties>
 
     <dependencies>
